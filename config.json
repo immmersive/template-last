@@ -1,4 +1,5 @@
 {
+    "templateName": "Yes man app rocks!",
     "blueprintId": "ubuntu_24_04",
     "bundleId": "micro_3_0",
     "templateTutorial": "youtube",
